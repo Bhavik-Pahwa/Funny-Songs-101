@@ -1,0 +1,6 @@
+requests>=2.32.4,<3
+wonderwords==2.2.0
+pydub==0.25.1
+pygame==2.6.1
+piper-tts>=1.3,<2
+audioop-lts>=0.2.1,<1; python_version >= '3.13'
